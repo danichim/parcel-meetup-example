@@ -6,4 +6,6 @@ npm install parcel-bundler --save-dev
 "build": "parcel build src/index.html"
 npm install react
 npm install react-dom
+npm start
+npm build
 ```
